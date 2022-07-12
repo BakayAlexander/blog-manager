@@ -30,4 +30,4 @@ The page will reload when you make changes.
 
 # Public domain
 
----
+https://blog-manager-bakay.netlify.app/
